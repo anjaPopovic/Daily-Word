@@ -1,5 +1,5 @@
 # Daily-Word
-Jednostavan projekat direktnog pretplatničkog sistema u Python-u.
+Jednostavan projekat iz predmeta CS230 - Distribuirani sistemi koji implementira direktni pretplatnički sistem u Python-u.
 
 ## Predlog teme
 
