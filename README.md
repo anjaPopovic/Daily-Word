@@ -18,6 +18,11 @@ Aplikacija je podeljena na nekoliko Python fajlova:
 - **send_words.py:** Sadrži funkcije `send_daily_word` za slanje dnevne reči na email adresu i `send_daily_word_to_all` za slanje reči svim pretplatnicima. Ove funkcije koriste SMTP server za slanje emailova.
 - **app.py:** Postavlja osnovu za veb aplikaciju pomoću Flask-a, uključuje rute za prikaz početne stranice i obradu korisničkih prijava. Takođe, koristi BackgroundScheduler za zakazivanje dnevnog slanja emailova.
 
+## Izgled aplikacije
+
+![image](https://github.com/user-attachments/assets/a71af1f7-0660-439d-a84e-35cdb80b7b0b)
+
+
 ## Zaključak
 
 Projekat “Daily Word” demonstrira uspešnu upotrebu Flask frameworka, SQLite baze podataka, SMTP protokola i BackgroundScheduler-a. Kreirana aplikacija omogućava pretplatu i svakodnevno slanje novih reči engleskog jezika putem mejla.
