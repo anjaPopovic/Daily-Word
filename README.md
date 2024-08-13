@@ -20,7 +20,7 @@ Aplikacija je podeljena na nekoliko Python fajlova:
 
 ## Izgled aplikacije
 
-Početna stranica aplikacije
+Početna stranica aplikacije:
 
 ![image](https://github.com/user-attachments/assets/a71af1f7-0660-439d-a84e-35cdb80b7b0b)
 
